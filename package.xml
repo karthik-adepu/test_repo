@@ -9,6 +9,7 @@
         <members>GeocodingService</members>
         <members>GeocodingServiceTest</members>
         <members>HouseService</members>
+        <members>MyFirstApexClass</members>
         <members>PagedResult</members>
         <members>PropertyController</members>
         <members>SampleDataController</members>
@@ -17,5 +18,9 @@
         <members>trlhdtips__tt_UtilController</members>
         <members>trlhdtips__tt_UtilControllerTest</members>
         <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Salesforce1</members>
+        <name>AppMenu</name>
     </types>
 </Package>
