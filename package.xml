@@ -9,7 +9,6 @@
         <members>GeocodingService</members>
         <members>GeocodingServiceTest</members>
         <members>HouseService</members>
-        <members>MyFirstApexClass</members>
         <members>PagedResult</members>
         <members>PropertyController</members>
         <members>SampleDataController</members>
@@ -19,12 +18,5 @@
         <members>trlhdtips__tt_UtilControllerTest</members>
         <name>ApexClass</name>
     </types>
-    <types>
-        <members>Salesforce1</members>
-        <name>AppMenu</name>
-    </types>
-    <types>
-        <members>DataCloudGeoLocation</members>
-        <name>CleanDataService</name>
-    </types>
+
 </Package>
