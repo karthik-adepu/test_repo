@@ -23,4 +23,8 @@
         <members>Salesforce1</members>
         <name>AppMenu</name>
     </types>
+    <types>
+        <members>DataCloudGeoLocation</members>
+        <name>CleanDataService</name>
+    </types>
 </Package>
